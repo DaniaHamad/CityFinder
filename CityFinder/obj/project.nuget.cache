@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FS50o2ajIFimF8KkckwmiUkQHNqoWkVuWl0UPZURYwBI6c0nVYFl4JCrDT8ll1sWxWsn7Wxj7t+pFAD3Ch2K/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dania\\Desktop\\Dev\\Web\\ASP.Net\\Code\\CityFinder\\CityFinder\\CityFinder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dania\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
